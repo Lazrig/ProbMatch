@@ -1,0 +1,4 @@
+
+Broker Begin New Test Using Combined Ext & nonExt Bigrams	1q:Tue Aug 11 13:09:50 MDT 2015
+
+Computing TP,FP,FN for Match All Cols with setting [7, 10, 10, 10, 7]_[7, 5, 5, 5, 7] For Both ExtBigrams=true and false

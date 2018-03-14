@@ -1,0 +1,59 @@
+
+Broker Begin New Test:Tue Aug 11 02:03:51 MDT 2015
+
+Computing TP,FP,FN for Match All Cols with setting [7, 10, 10, 10, 7]_[7, 5, 5, 5, 7] ExtBiGrams=false
+
+             ColumnsUsed4Match        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+
+               [email, DateOB]      5962       652        38      6000
+
+                [last, DateOB]      5085      7300       915      6000
+
+                 [last, email]      5050      3429       950      6000
+
+         [last, email, DateOB]      5050        58       950      6000
+
+               [first, DateOB]      5058      9412       942      6000
+
+                [first, email]      5027       410       973      6000
+
+        [first, email, DateOB]      5027         4       973      6000
+
+                 [first, last]      4292      2094      1708      6000
+
+         [first, last, DateOB]      4292        26      1708      6000
+
+          [first, last, email]      4264        54      1736      6000
+
+  [first, last, email, DateOB]      4264         0      1736      6000
+
+                 [ssn, DateOB]      6000        52         0      6000
+
+                  [ssn, email]      5962         3        38      6000
+
+          [ssn, email, DateOB]      5962         0        38      6000
+
+                   [ssn, last]      5085        15       915      6000
+
+           [ssn, last, DateOB]      5085         0       915      6000
+
+            [ssn, last, email]      5050         0       950      6000
+
+    [ssn, last, email, DateOB]      5050         0       950      6000
+
+                  [ssn, first]      5058        13       942      6000
+
+          [ssn, first, DateOB]      5058         0       942      6000
+
+           [ssn, first, email]      5027         0       973      6000
+
+   [ssn, first, email, DateOB]      5027         0       973      6000
+
+            [ssn, first, last]      4292         0      1708      6000
+
+    [ssn, first, last, DateOB]      4292         0      1708      6000
+
+     [ssn, first, last, email]      4264         0      1736      6000
+
+[ssn, first, last, email, DateOB]      4264         0      1736      6000

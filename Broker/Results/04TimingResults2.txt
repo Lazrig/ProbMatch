@@ -1,0 +1,66 @@
+Broker Begin Timing:Sat Aug 08 21:08:07 MDT 2015
+Matching MyTables for ExtBig=True  Started @:1439089687683
+
+Computing Match phase 1 started.. at 1439089687825
+
+.....Match phase 1, for Column ssn With Sig. Setting 5_10 started.. at 1439089687825
+
+.....Match phase 1, for Column ssn With Sig. Setting 5_10 Completed. It took 1459
+
+.....Match phase 1, for Column first With Sig. Setting 7_7 started.. at 1439089689284
+
+.....Match phase 1, for Column first With Sig. Setting 7_7 Completed. It took 298926
+
+.....Match phase 1, for Column last With Sig. Setting 7_7 started.. at 1439089988210
+
+.....Match phase 1, for Column last With Sig. Setting 7_7 Completed. It took 252046
+
+.....Match phase 1, for Column email With Sig. Setting 7_7 started.. at 1439090240256
+
+.....Match phase 1, for Column email With Sig. Setting 7_7 Completed. It took 9822
+
+.....Match phase 1, for Column DateOB With Sig. Setting 5_10 started.. at 1439090250079
+
+.....Match phase 1, for Column DateOB With Sig. Setting 5_10 Completed. It took 6187
+
+Computing Match phase 2 started.. at 1439090256266
+
+Computing Match for Sig  With DoPhase1= true took : 570489
+
+-----------------------------------------
+
+ Ended @:1439090259118 And lasted for : 571435
+Broker Begin Timing:Sat Aug 08 21:39:58 MDT 2015
+Matching MyTables for ExtBig=True  Started @:1439091598409
+
+Computing Match phase 1 started.. at 1439091598847
+
+.....Match phase 1, for Column ssn With Sig. Setting 5_10 started.. at 1439091598848
+
+.....Match phase 1, for Column ssn With Sig. Setting 5_10 Completed. It took 1544
+
+.....Match phase 1, for Column first With Sig. Setting 7_7 started.. at 1439091600392
+
+.....Match phase 1, for Column first With Sig. Setting 7_7 Completed. It took 267652
+
+.....Match phase 1, for Column last With Sig. Setting 7_7 started.. at 1439091868044
+
+.....Match phase 1, for Column last With Sig. Setting 7_7 Completed. It took 202172
+
+.....Match phase 1, for Column email With Sig. Setting 7_7 started.. at 1439092070216
+
+.....Match phase 1, for Column email With Sig. Setting 7_7 Completed. It took 5388
+
+.....Match phase 1, for Column DateOB With Sig. Setting 5_10 started.. at 1439092075604
+
+.....Match phase 1, for Column DateOB With Sig. Setting 5_10 Completed. It took 9714
+
+Computing Match phase 2 started.. at 1439092085318
+
+.....Match phase 2 Completed. It took 33012
+
+Computing Match for Sig  With DoPhase1= true took : 521329
+
+-----------------------------------------
+
+ Ended @:1439092121690 And lasted for : 523281

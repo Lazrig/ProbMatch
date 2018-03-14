@@ -1,0 +1,319 @@
+Waiting for frame to close ...
+min r=0.09692029471474406  imin=10
+min r=0.16567473385962295  imin=7
+min r=0.16567473385962295  imin=7
+min r=0.16567473385962295  imin=7
+min r=0.09692029471474406  imin=10
+
+ nGroups=[5, 7, 7, 7, 5]
+
+ nGitems=[10, 7, 7, 7, 10]
+Connecting to database ...
+
+Computing Match for setting  ExtBiGrams=false
+
+Computing Match phase 1, nGroups[5, 7, 7, 7, 5]_nGItems[10, 7, 7, 7, 10] started.. at 1439091598847
+
+.....Match phase 1, for Column ssn With Sig. Setting 5_10 started.. at 1439091598848
+
+ Deleting old Match result table (NoNullSig5_10_N_ssnMatchResults) if exist ... 
+ Ok !
+
+ Creating new Match result table(NoNullSig5_10_N_ssnMatchResults)  ... 
+ Ok !
+
+ Finding Matches, Please wait ...
+ Completed !
+
+End ofJoin2TablesByNameOnCondition!
+
+.....Match phase 1, for Column ssn With Sig. Setting 5_10 Completed. It took 1544
+
+.....Match phase 1, for Column first With Sig. Setting 7_7 started.. at 1439091600392
+
+ Deleting old Match result table (NoNullSig7_7_N_firstMatchResults) if exist ... 
+ Ok !
+
+ Creating new Match result table(NoNullSig7_7_N_firstMatchResults)  ... 
+ Ok !
+
+ Finding Matches, Please wait ...
+ Completed !
+
+End ofJoin2TablesByNameOnCondition!
+
+.....Match phase 1, for Column first With Sig. Setting 7_7 Completed. It took 267652
+
+.....Match phase 1, for Column last With Sig. Setting 7_7 started.. at 1439091868044
+
+ Deleting old Match result table (NoNullSig7_7_N_lastMatchResults) if exist ... 
+ Ok !
+
+ Creating new Match result table(NoNullSig7_7_N_lastMatchResults)  ... 
+ Ok !
+
+ Finding Matches, Please wait ...
+ Completed !
+
+End ofJoin2TablesByNameOnCondition!
+
+.....Match phase 1, for Column last With Sig. Setting 7_7 Completed. It took 202172
+
+.....Match phase 1, for Column email With Sig. Setting 7_7 started.. at 1439092070216
+
+ Deleting old Match result table (NoNullSig7_7_N_emailMatchResults) if exist ... 
+ Ok !
+
+ Creating new Match result table(NoNullSig7_7_N_emailMatchResults)  ... 
+ Ok !
+
+ Finding Matches, Please wait ...
+ Completed !
+
+End ofJoin2TablesByNameOnCondition!
+
+.....Match phase 1, for Column email With Sig. Setting 7_7 Completed. It took 5388
+
+.....Match phase 1, for Column DateOB With Sig. Setting 5_10 started.. at 1439092075604
+
+ Deleting old Match result table (NoNullSig5_10_N_DateOBMatchResults) if exist ... 
+ Ok !
+
+ Creating new Match result table(NoNullSig5_10_N_DateOBMatchResults)  ... 
+ Ok !
+
+ Finding Matches, Please wait ...
+ Completed !
+
+End ofJoin2TablesByNameOnCondition!
+
+.....Match phase 1, for Column DateOB With Sig. Setting 5_10 Completed. It took 9714
+
+Computing Match phase 2, [5, 7, 7, 7, 5]_nGItems[10, 7, 7, 7, 10] started.. at 1439092085318
+
+ Deleting old Match phase2 result table (NoNullSig5_10_7_7_7_7_7_7_5_10_N_AllColsMatchResults) if exist ... 
+ Ok !
+
+ Creating new Match phase2 result table(NoNullSig5_10_7_7_7_7_7_7_5_10_N_AllColsMatchResults)  ... 
+ Ok !
+
+ Finding Matches, and filling phase2 Match table  Please wait ...
+
+.....Match phase 2,  Completed. It took 33012
+End of MatchMyTablesOnAllCols!
+
+Computing Match  completed  With DoPhase1= true, It took :521329
+
+Computing TP,FP,FN for Match All Cols with setting [5, 7, 7, 7, 5]_[10, 7, 7, 7, 10] ExtBiGrams=false
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5769         0       231      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[last, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4679       400      1321      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[last, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4496       240      1504      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[last, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4496         0      1504      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[first, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4655       550      1345      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[first, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4474        16      1526      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[first, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4474         0      1526      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[first, last]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      3631      1298      2369      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[first, last, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      3631         2      2369      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[first, last, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      3487         5      2513      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[first, last, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      3487         0      2513      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000         1         0      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5769         0       231      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5769         0       231      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, last]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4679         0      1321      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, last, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4679         0      1321      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, last, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4496         0      1504      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, last, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4496         0      1504      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, first]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4655         0      1345      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, first, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4655         0      1345      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, first, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4474         0      1526      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, first, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4474         0      1526      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, first, last]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      3631         0      2369      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, first, last, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      3631         0      2369      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, first, last, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      3487         0      2513      6000
+
+
+
+ Begin New Scenario: ColumnsUsed4Match=[ssn, first, last, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      3487         0      2513      6000
+End of matching AllCols !
+
+ This took : 523281
+

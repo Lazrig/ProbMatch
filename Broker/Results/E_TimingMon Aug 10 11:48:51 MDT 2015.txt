@@ -1,0 +1,17 @@
+Broker Begin Timing:Mon Aug 10 11:48:51 MDT 2015
+Matching MyTables for ExtBig=true  Started @:1439228931871
+
+---------------------------------------------------------------------------------
+
+Computing Match for Sig setting [7, 10, 10, 10, 7]_[7, 5, 5, 5, 7]
+ ExtBiGrams=true
+
+Computing Match phase 1 started.. at 1439228932006
+
+
+              Column       Sig. Settings            Duration
+--------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+
+ Ended @:1439228933650 And lasted for : 1779

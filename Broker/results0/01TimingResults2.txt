@@ -1,0 +1,178 @@
+Broker Begin Timing:
+Matching MyTables for ExtBig=True  Started @:1438912644026
+
+Computing Match for Sig 1_4 With DoPhase1= true took : 1155
+
+-----------------------------------------
+
+ Ended @:1438912645873 And lasted for : 1847
+Broker Begin Timing:
+Matching MyTables for ExtBig=True  Started @:1438913271374
+
+Computing Match for Sig 1_4 With DoPhase1= true took : 1190
+
+-----------------------------------------
+
+ Ended @:1438913273004 And lasted for : 1630
+Broker Begin Timing:
+Matching MyTables for ExtBig=True  Started @:1438915117345
+
+Computing Match for Sig 1_4 With DoPhase1= true took : 1178
+
+-----------------------------------------
+
+ Ended @:1438915118948 And lasted for : 1603
+Broker Begin Timing:
+Matching MyTables for ExtBig=True  Started @:1438915930309
+
+Computing Match for Sig 1_4 With DoPhase1= true took : 1214
+
+-----------------------------------------
+
+ Ended @:1438915931778 And lasted for : 1469
+Broker Begin Timing:
+Matching MyTables for ExtBig=True  Started @:1438924937578
+
+Computing Match for Sig 12_4 With DoPhase1= true took : 79046
+
+-----------------------------------------
+
+ Ended @:1438925017804 And lasted for : 80226
+Broker Begin Timing:
+Matching MyTables for ExtBig=True  Started @:1439024999717
+
+-----------------------------------------
+
+ Ended @:1439025000462 And lasted for : 745
+Broker Begin Timing:
+Matching MyTables for ExtBig=True  Started @:1439025077609
+
+Computing Match phase 1 started.. at 1439025077755
+
+.....Match phase 1, for Column ssn With Sig. Setting 12_4 started.. at 1439025077756
+
+.....Match phase 1, for Column ssn With Sig. Setting 12_4 Completed. It took 71952
+
+.....Match phase 1, for Column first With Sig. Setting 12_4 started.. at 1439025149709
+
+.....Match phase 1, for Column first With Sig. Setting 12_4 Completed. It took 1075913
+
+.....Match phase 1, for Column last With Sig. Setting 12_4 started.. at 1439026225622
+
+.....Match phase 1, for Column last With Sig. Setting 12_4 Completed. It took 906460
+
+.....Match phase 1, for Column email With Sig. Setting 12_4 started.. at 1439027132082
+
+.....Match phase 1, for Column email With Sig. Setting 12_4 Completed. It took 67655
+
+.....Match phase 1, for Column DateOB With Sig. Setting 10_5 started.. at 1439027199737
+
+.....Match phase 1, for Column DateOB With Sig. Setting 10_5 Completed. It took 481
+
+Computing Match phase 2 started.. at 1439027200218
+
+Computing Match for Sig  With DoPhase1= true took : 2122464
+
+-----------------------------------------
+
+ Ended @:1439027201471 And lasted for : 2123862
+Broker Begin Timing:
+Matching MyTables for ExtBig=True  Started @:1439067786540
+
+Computing Match phase 1 started.. at 1439067786992
+
+.....Match phase 1, for Column ssn With Sig. Setting 12_4 started.. at 1439067786992
+
+.....Match phase 1, for Column ssn With Sig. Setting 12_4 Completed. It took 70680
+
+.....Match phase 1, for Column first With Sig. Setting 12_4 started.. at 1439067857672
+
+.....Match phase 1, for Column first With Sig. Setting 12_4 Completed. It took 839837
+
+.....Match phase 1, for Column last With Sig. Setting 12_4 started.. at 1439068697509
+
+.....Match phase 1, for Column last With Sig. Setting 12_4 Completed. It took 665373
+
+.....Match phase 1, for Column email With Sig. Setting 12_4 started.. at 1439069362882
+
+.....Match phase 1, for Column email With Sig. Setting 12_4 Completed. It took 51639
+
+.....Match phase 1, for Column DateOB With Sig. Setting 10_5 started.. at 1439069414521
+
+.....Match phase 1, for Column DateOB With Sig. Setting 10_5 Completed. It took 915806
+
+Computing Match phase 2 started.. at 1439070330327
+
+Computing Match for Sig  With DoPhase1= true took : 2544318
+
+-----------------------------------------
+
+ Ended @:1439070332647 And lasted for : 2546107
+Broker Begin Timing:
+Matching MyTables for ExtBig=True  Started @:1439074430999
+
+Computing Match phase 1 started.. at 1439074431148
+
+.....Match phase 1, for Column ssn With Sig. Setting 12_4 started.. at 1439074431148
+
+.....Match phase 1, for Column ssn With Sig. Setting 12_4 Completed. It took 43880
+
+.....Match phase 1, for Column first With Sig. Setting 12_4 started.. at 1439074475028
+
+.....Match phase 1, for Column first With Sig. Setting 12_4 Completed. It took 783849
+
+.....Match phase 1, for Column last With Sig. Setting 12_4 started.. at 1439075258877
+
+.....Match phase 1, for Column last With Sig. Setting 12_4 Completed. It took 647720
+
+.....Match phase 1, for Column email With Sig. Setting 12_4 started.. at 1439075906597
+
+.....Match phase 1, for Column email With Sig. Setting 12_4 Completed. It took 41809
+
+.....Match phase 1, for Column DateOB With Sig. Setting 7_7 started.. at 1439075948406
+
+.....Match phase 1, for Column DateOB With Sig. Setting 7_7 Completed. It took 122996
+
+Computing Match phase 2 started.. at 1439076071402
+
+.....Match phase 2 Completed. It took 129433
+
+Computing Match for Sig  With DoPhase1= true took : 1775280
+
+-----------------------------------------
+
+ Ended @:1439076235302 And lasted for : 1804303
+Broker Begin Timing:Sat Aug 08 17:58:08 MDT 2015
+Matching MyTables for ExtBig=True  Started @:1439078288796
+
+Computing Match phase 1 started.. at 1439078288960
+
+.....Match phase 1, for Column ssn With Sig. Setting 5_10 started.. at 1439078288967
+
+.....Match phase 1, for Column ssn With Sig. Setting 5_10 Completed. It took 899
+
+.....Match phase 1, for Column first With Sig. Setting 7_7 started.. at 1439078289866
+
+.....Match phase 1, for Column first With Sig. Setting 7_7 Completed. It took 276741
+
+.....Match phase 1, for Column last With Sig. Setting 7_7 started.. at 1439078566608
+
+.....Match phase 1, for Column last With Sig. Setting 7_7 Completed. It took 244575
+
+.....Match phase 1, for Column email With Sig. Setting 7_7 started.. at 1439078811183
+
+.....Match phase 1, for Column email With Sig. Setting 7_7 Completed. It took 1167
+
+.....Match phase 1, for Column DateOB With Sig. Setting 5_10 started.. at 1439078812350
+
+.....Match phase 1, for Column DateOB With Sig. Setting 5_10 Completed. It took 11907
+
+Computing Match phase 2 started.. at 1439078824257
+
+.....Match phase 2 Completed. It took 46813
+
+Computing Match for Sig  With DoPhase1= true took : 582304
+
+-----------------------------------------
+
+ Ended @:1439078904451 And lasted for : 615655

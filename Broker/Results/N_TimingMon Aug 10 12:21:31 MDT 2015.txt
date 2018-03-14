@@ -1,0 +1,30 @@
+Broker Begin Timing:Mon Aug 10 12:21:31 MDT 2015
+Matching MyTables for ExtBig=false  Started @:1439230891582
+
+---------------------------------------------------------------------------------
+
+Computing Match for Sig setting [7, 10, 10, 10, 7]_[7, 5, 5, 5, 7]
+ ExtBiGrams=false
+
+Computing Match phase 1 started.. at 1439230892219
+
+
+              Column       Sig. Settings            Duration
+--------------------------------------------------------------------------------
+
+                 ssn         7-7                       11084
+               first        10-5                      586242
+                last        10-5                      478704
+               email        10-5                       28197
+              DateOB         7-7                      181050
+--------------------------------------------------------------------------------
+
+Computing Match phase 2 started.. at 1439232177503
+
+.....Match phase 2 Completed. It took 65262
+
+Computing Match for Sig  With DoPhase1= true took : 1351148
+
+---------------------------------------------------------------------------------
+
+ Ended @:1439232246054 And lasted for : 1354472

@@ -1,0 +1,212 @@
+
+Broker Begin New Test:Sun Aug 09 14:48:44 MDT 2015
+
+Computing TP,FP,FN for Match All Cols with setting [5, 10, 10, 10, 5]_[10, 5, 5, 5, 10] ExtBiGrams=false
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5962        39        38      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[last, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5085       502       915      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[last, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5050      3429       950      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[last, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5050         2       950      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[first, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5058       735       942      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[first, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5027       410       973      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[first, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5027         0       973      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[first, last]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4292      2094      1708      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[first, last, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4292         2      1708      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[first, last, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4264        54      1736      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[first, last, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4264         0      1736      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000         1         0      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5962         0        38      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5962         0        38      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, last]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5085         0       915      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, last, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5085         0       915      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, last, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5050         0       950      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, last, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5050         0       950      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, first]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5058         0       942      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, first, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5058         0       942      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, first, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5027         0       973      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, first, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5027         0       973      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, first, last]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4292         0      1708      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4292         0      1708      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, email]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4264         0      1736      6000
+
+
+
+ Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, email, DateOB]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      4264         0      1736      6000

@@ -1,0 +1,59 @@
+
+Broker Begin New Test Using Combined Ext & nonExt Bigrams	1q:Tue Aug 11 18:25:15 MDT 2015
+
+Computing TP,FP,FN for Match All Cols with setting [7, 12, 12, 10, 7]_[7, 4, 4, 5, 7] For Both ExtBigrams=true and false
+
+             ColumnsUsed4Match	        Tp	        Fp	        Fn	    TrueMatches
+-------------------------------------------------------------------------
+
+               [email, DateOB]	      5996	       961	         4	      6000
+
+                [last, DateOB]	      5711	     15043	       289	      6000
+
+                 [last, email]	      5703	      5642	       297	      6000
+
+         [last, email, DateOB]	      5703	        89	       297	      6000
+
+               [first, DateOB]	      5690	     19252	       310	      6000
+
+                [first, email]	      5686	       784	       314	      6000
+
+        [first, email, DateOB]	      5686	         9	       314	      6000
+
+                 [first, last]	      5400	      5513	       600	      6000
+
+         [first, last, DateOB]	      5400	        97	       600	      6000
+
+          [first, last, email]	      5392	       102	       608	      6000
+
+  [first, last, email, DateOB]	      5392	         0	       608	      6000
+
+                 [ssn, DateOB]	      6000	       186	         0	      6000
+
+                  [ssn, email]	      5996	         5	         4	      6000
+
+          [ssn, email, DateOB]	      5996	         0	         4	      6000
+
+                   [ssn, last]	      5711	        66	       289	      6000
+
+           [ssn, last, DateOB]	      5711	         2	       289	      6000
+
+            [ssn, last, email]	      5703	         0	       297	      6000
+
+    [ssn, last, email, DateOB]	      5703	         0	       297	      6000
+
+                  [ssn, first]	      5690	        90	       310	      6000
+
+          [ssn, first, DateOB]	      5690	         2	       310	      6000
+
+           [ssn, first, email]	      5686	         0	       314	      6000
+
+   [ssn, first, email, DateOB]	      5686	         0	       314	      6000
+
+            [ssn, first, last]	      5400	         0	       600	      6000
+
+    [ssn, first, last, DateOB]	      5400	         0	       600	      6000
+
+     [ssn, first, last, email]	      5392	         0	       608	      6000
+
+[ssn, first, last, email, DateOB]	      5392	         0	       608	      6000

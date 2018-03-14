@@ -1,0 +1,2434 @@
+
+Croker Begin New Test:Thu Aug 06 19:57:24 MDT 2015
+
+Begin New Scenario:ColumnsUsed4Match=[cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Croker Begin New Test:Thu Aug 06 20:07:51 MDT 2015
+
+Begin New Scenario:ColumnsUsed4Match=[cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Croker Begin New Test:Thu Aug 06 20:38:37 MDT 2015
+
+Begin New Scenario:ColumnsUsed4Match=[cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0      3000      3000
+
+Croker Begin New Test:Thu Aug 06 20:52:10 MDT 2015
+
+Begin New Scenario:ColumnsUsed4Match=[cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      1-4               0         0         0         0
+
+Croker Begin New Test:Thu Aug 06 23:22:17 MDT 2015
+
+Begin New Scenario:ColumnsUsed4Match=[cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1954      6503      1046      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1864      2674      1136      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1864       424      1136      3000
+
+Begin New Scenario:ColumnsUsed4Match=[lastname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            2666      9557       334      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1508        22      1492      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1936      2307      1064      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1920       308      1080      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            2674      9084       326      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1568        17      1432      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1844       149      1156      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            2684      5108       316      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1480        11      1520      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, cob]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            2652       879       348      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1488         1      1512      3000
+
+Begin New Scenario:ColumnsUsed4Match=[firstname, lastname, cob, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            2915     12263        85      3000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            2423        51       577      3000
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+   Sig.Settings        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+     12-4            1207         0      1793      3000
+
+Croker Begin New Test:Sat Aug 08 03:09:59 MDT 2015
+
+Croker Begin New Test:Sat Aug 08 03:11:17 MDT 2015
+
+Begin New Scenario:ColumnsUsed4Match=[email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, last]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 4:Number of colums should match are at least 5 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Croker Begin New Test:Sat Aug 08 15:03:06 MDT 2015
+
+Begin New Scenario:ColumnsUsed4Match=[email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, last]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[first, last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+ Case 4:Number of colums should match are at least 5 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 10]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+         0         0         0         0
+
+Croker Begin New Test:Sat Aug 08 16:53:50 MDT 2015
+
+Begin New Scenario:ColumnsUsed4Match=[email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    105583         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    469394         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5999    380438         1      6000
+
+Begin New Scenario:ColumnsUsed4Match=[last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    479352         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    367963         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[first, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    583627         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[first, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5998    493751         2      6000
+
+Begin New Scenario:ColumnsUsed4Match=[first, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    593275         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    460644         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[first, last]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      5904    855886        96      6000
+
+Begin New Scenario:ColumnsUsed4Match=[first, last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    955262         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    797080         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[first, last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    864834         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    771206         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[first, last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    965520         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    799176         0      6000
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    736510         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    123905         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000     29309         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    134050         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000     30373         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    393299         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    497894         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    368363         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    402692         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    342388         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    508587         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    370431         0      6000
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    333292         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 2
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    507431         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    612496         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    461724         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    516480         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    435058         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    622958         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    463280         0      6000
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    415645         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    878671         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 3
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    771382         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    984983         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    799858         0      6000
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    736358         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, email]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    888365         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    773386         0      6000
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 4
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    726333         0      6000
+
+Begin New Scenario:ColumnsUsed4Match=[ssn, first, last, email, DateOB]
+
+ Case 1:Number of colums should match are at least 2 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    995963         0      6000
+
+ Case 2:Number of colums should match are at least 3 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    802033         0      6000
+
+ Case 3:Number of colums should match are at least 4 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    737118         0      6000
+
+ Case 4:Number of colums should match are at least 5 Out of the selected 5
+
+ TP,FP,FN for MatchAllCols with setting  ExtBiGrams=true
+
+ Sig.Settings[12, 12, 12, 12, 7]
+
+        Tp        Fp        Fn    TrueMatches
+-------------------------------------------------------------------------
+      6000    705911         0      6000

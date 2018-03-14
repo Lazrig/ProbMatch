@@ -1,0 +1,34 @@
+Broker Begin Timing:Sun Aug 09 14:48:44 MDT 2015
+Matching MyTables for ExtBig=True  Started @:1439153324322
+
+Computing Match phase 1 started.. at 1439153324459
+
+.....Match phase 1, for Column ssn With Sig. Setting 5_10 started.. at 1439153324459
+
+.....Match phase 1, for Column ssn With Sig. Setting 5_10 Completed. It took 996
+
+.....Match phase 1, for Column first With Sig. Setting 10_5 started.. at 1439153325455
+
+.....Match phase 1, for Column first With Sig. Setting 10_5 Completed. It took 526486
+
+.....Match phase 1, for Column last With Sig. Setting 10_5 started.. at 1439153851941
+
+.....Match phase 1, for Column last With Sig. Setting 10_5 Completed. It took 406895
+
+.....Match phase 1, for Column email With Sig. Setting 10_5 started.. at 1439154258836
+
+.....Match phase 1, for Column email With Sig. Setting 10_5 Completed. It took 15081
+
+.....Match phase 1, for Column DateOB With Sig. Setting 5_10 started.. at 1439154273917
+
+.....Match phase 1, for Column DateOB With Sig. Setting 5_10 Completed. It took 11596
+
+Computing Match phase 2 started.. at 1439154285513
+
+.....Match phase 2 Completed. It took 28318
+
+Computing Match for Sig  With DoPhase1= true took : 989941
+
+-----------------------------------------
+
+ Ended @:1439154317329 And lasted for : 993007

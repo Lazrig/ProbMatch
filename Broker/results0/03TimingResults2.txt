@@ -1,0 +1,6 @@
+Broker Begin Timing:Sat Aug 08 20:54:36 MDT 2015
+Matching MyTables for ExtBig=True  Started @:1439088876068
+
+-----------------------------------------
+
+ Ended @:1439088891349 And lasted for : 15281
